@@ -10,7 +10,7 @@ play(hap)                        % Às
 
 %% audioplayer‚Ì’â~
 stop(hap)
-
+% stio(hap)
 %% ˜^‰¹
 Nbit = 16;
 Nch = 2;
